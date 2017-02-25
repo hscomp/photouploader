@@ -2,5 +2,9 @@
 
 Zde je nějaký popis projektu.
 
-## jedna
-### dva
+## Postup
+1. Vytvoři něco
+2. Uložit projekt
+
+* První odrážka
+* Druhá odrážka
