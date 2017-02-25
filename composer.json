@@ -1,0 +1,12 @@
+{
+    "name": "hscomp/photouploader",
+    "description": "Simple photo uploader",
+    "authors": [
+        {
+            "name": "Petr Zavicak",
+            "email": "zavicak@hscomputers.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
